@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500&family=Varela+Round&display=swap');
+
+.App{
+   margin-top: 173px;
+   align-items: center;
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+   font-family: 'Varela Round', sans-serif;
+   color: rgb(107, 36, 12);
+   background-color: rgb(245, 204, 160);
+   margin-left: 521px;
+   margin-right: 521px;
+   border: 7px solid;
+   border-radius: 28px;
+}
+.container{
+   background-color: rgb(228, 143, 69);
+   height: 745px;
+   padding-top: 1px;
+}
+.buttons{
+   align-items: center;
+   justify-content: center;
+}
+
